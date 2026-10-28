@@ -1,4 +1,4 @@
-# Boom Website
+# Bloom Website
 
 A responsive coffee and barista-course website built as a practical demonstration of **CUBE CSS**, reusable design tokens, fluid typography, and a component pattern library.
 
